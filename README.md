@@ -1,8 +1,11 @@
- 👋 Hello, I'm [Klein]!
- 
-About Me
+👋 Hello, I'm [Klein]!
 
 🔒 Cybersecurity Enthusiast | 🛡️ Security Researcher | 💻 Ethical Hacker
+
+👀 I’m interested in python and cybersecurity
+
+🌱 I’m a cybersecurity student
+
 
 
 <div align="center">
